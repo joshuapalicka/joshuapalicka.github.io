@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+title: Joshua Palicka # your name (or website title) here
+logo: "/images/joshuapalicka-circle.jpg?raw=true"
+description: >
+  
+  <br> Hi! I'm a Computer Science professional with a B.S. in Computer Science from Seattle University,
+  currently pursuing an M.S. in Computer Science with Data Science Proficiency. My skillset includes
+  multiple programming languages, machine learning, software design, data structures, and algorithms.<br>
+  
+  <br>I am currently seeking a data science career opportunity after I graduate in June.
+  I'm eager to join a dynamic team and contribute my skills and passion. If you know of any open positions, 
+  internships, or collaborative projects, please feel free to reach out. I look forward to making a 
+  meaningful impact in the data science community!<br>
+  
+  <a href="https://www.linkedin.com/in/jpalicka/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: G-R226D9G6FD # your Google Analytics tracking ID here
