@@ -5,19 +5,15 @@
 ### Large Projects
 
 [Senior Capstone Project - Kenworth - Predict BoM Health & Sales Code Driven REIs](/kenworth)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Graduate Research Project - Sugarscape Utilicalc](/sugarscape-utilicalc)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Graduate Capstone Project - Network Anomaly Detection](/anomaly-detection)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Freelance Web Development - Des Moines Marina Association](/marina)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
