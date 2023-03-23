@@ -2,39 +2,35 @@
 
 ---
 
-### Category Name 1 
+### Large Projects
 
-[Senior Capstone Project – Kenworth - Predict BoM Health & Sales Code Driven REIs](/sample_page)
+[Senior Capstone Project - Kenworth - Predict BoM Health & Sales Code Driven REIs](/kenworth)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Graduate Research Project - Sugarscape Utilicalc](/pdf/sample_presentation.pdf)
+[Graduate Research Project - Sugarscape Utilicalc](/sugarscape-utilicalc)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Graduate Capstone Project - Network Anomaly Detection](http://example.com/)
+[Graduate Capstone Project - Network Anomaly Detection](/anomaly-detection)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Freelance Web Development - Des Moines Marina Association](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Freelance Tech Support](http://example.com/)
+[Freelance Web Development - Des Moines Marina Association](/marina)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other Accomplishments
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Freelance Tech Support](/tech-support)
+- [TA for 4 Quarters](/ta)
+- [FitDB](http://example.com/)
+- [Sugarscape](/sugarscape)
 - [Project 5 Title](http://example.com/)
 
 ---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove above link if you don't want to attribute -->
