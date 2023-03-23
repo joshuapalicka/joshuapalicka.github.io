@@ -47,8 +47,17 @@ team will continue our work by utilizing our documentation and models to further
 the relationship between Sales Orders and REIs.
 
 <br><br>
+<figure>
+<a href="images/kenworth-scrum.png?raw=true" target="_blank">
 <img src="images/kenworth-scrum.png?raw=true" alt="Project Scrum breakdown"/>
+</a>
 <figcaption>Project Roadmap</figcaption>
+</figure>
+
+<figure>
 <br><br><br>
+<a href="images/kenworth-predicted-actual.png?raw=true" target="_blank">
 <img src="images/kenworth-predicted-actual.png?raw=true" alt="Graph of Predicted vs. Actual REIs"/>
+</a>
 <figcaption>Predicted REIs (X) vs. Actual REIs (Y) in our final model. Each point denotes a truck order.</figcaption>
+</figure>
