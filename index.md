@@ -15,6 +15,12 @@
 ---
 [Graduate Research Project - Sugarscape Utilicalc](/sugarscape-utilicalc)
 
+<figure>
+<a href="images/sugarscape.png?raw=true" target="_blank">
+<img src="images/sugarscape.png?raw=true" alt="Standard Sugarscape Run"/>
+</a>
+</figure>
+
 ---
 [Graduate Capstone Project - Network Anomaly Detection](/anomaly-detection)
 
