@@ -6,6 +6,12 @@
 
 [Senior Capstone Project - Kenworth - Predict BoM Health & Sales Code Driven REIs](/kenworth)
 
+<figure>
+<a href="images/kenworth-decision-tree.png?raw=true" target="_blank">
+<img src="images/kenworth-decision-tree.png?raw=true" alt="Example Decision Tree from Kenworth project"/>
+</a>
+</figure>
+
 ---
 [Graduate Research Project - Sugarscape Utilicalc](/sugarscape-utilicalc)
 
@@ -20,7 +26,7 @@
 ### Other Accomplishments
 
 - [Freelance Tech Support](/tech-support)
-- [TA for 4 Quarters](/ta)
+- [4 Quarters of TA Work](/ta)
 - [FitDB](http://example.com/)
 - [Sugarscape](/sugarscape)
 - [Project 5 Title](http://example.com/)
