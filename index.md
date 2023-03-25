@@ -33,9 +33,7 @@
 
 - [Freelance Tech Support](/tech-support)
 - [4 Quarters of TA Work](/ta)
-- [FitDB](http://example.com/)
 - [Sugarscape](/sugarscape)
-- [Project 5 Title](http://example.com/)
 
 ---
 
