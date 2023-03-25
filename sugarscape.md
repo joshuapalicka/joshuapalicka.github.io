@@ -29,7 +29,8 @@ statistics during program runtime.
 ### Outcomes
 We were successful in reproducing Sugarscape. Although there is not enough detail given in the book for an exact copy,
 we are able to reproduce many of the results from the book, and it worked well for us in our ethics project. I gained
-skills in project management, working with constraints, performance optimization, communication, and collaborative problem-solving
+skills in project management, working with constraints, performance optimization, communication, refactoring, and collaborative 
+problem-solving
 
 <br><br>
 <figure>
