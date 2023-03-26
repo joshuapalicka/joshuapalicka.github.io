@@ -24,6 +24,12 @@
 ---
 [Graduate Capstone Project - Network Anomaly Detection](/anomaly-detection)
 
+<figure>
+<a href="images/pipeline.jpg?raw=true" target="_blank">
+<img src="images/pipeline.jpg?raw=true" alt="Example of the pipeline we used"/>
+</a>
+</figure>
+
 ---
 [Freelance Web Development - Des Moines Marina Association](/marina)
 
@@ -31,7 +37,6 @@
 
 ### Other Accomplishments
 
-- [Freelance Tech Support](/tech-support)
 - [4 Quarters of TA Work](/ta)
 - [Sugarscape](/sugarscape)
 
