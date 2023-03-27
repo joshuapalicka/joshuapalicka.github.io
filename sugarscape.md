@@ -1,4 +1,14 @@
-## Sugarscape
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R226D9G6FD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R226D9G6FD');
+</script>
+
+# Sugarscape
 
 ### Project description
 A comprehensive Python implementation of Joshua M. Epstein and Robert Axtell's agent-based simulation: Sugarscape, as 
@@ -47,13 +57,3 @@ and collaborative problem-solving.
 </a>
 <figcaption>Snapshot of a Sugarscape run with sugar and spice, including optional stats and a graph</figcaption>
 </figure>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R226D9G6FD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R226D9G6FD');
-</script>

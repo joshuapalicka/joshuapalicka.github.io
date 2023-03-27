@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R226D9G6FD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R226D9G6FD');
+</script>
+
 # CS Senior Capstone Project: Predicting REIs in Kenworth Trucks
 
 ### Background
@@ -63,12 +73,3 @@ the relationship between Sales Orders and REIs.
 <figcaption>Predicted REIs (X) vs. Actual REIs (Y) in our final model. Each point denotes a truck order.</figcaption>
 </figure>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R226D9G6FD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R226D9G6FD');
-</script>

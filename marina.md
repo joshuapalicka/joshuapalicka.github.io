@@ -1,3 +1,14 @@
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R226D9G6FD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R226D9G6FD');
+</script>
+
 # Freelance Web Development
 
 ### Background
@@ -32,13 +43,3 @@ I gained skills in web design, communication with clients, and project managemen
 <p>
   <a href="https://www.dmmaonline.org/" target="_blank">Completed site</a>
 </p>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R226D9G6FD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R226D9G6FD');
-</script>
