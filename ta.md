@@ -97,3 +97,13 @@ content, which has not only reinforced my understanding but has also enabled me 
 
 Overall, my experience as a Teaching Assistant has been instrumental in shaping my personal and professional development, 
 while also positively impacting the academic experiences of the students I have supported.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R226D9G6FD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R226D9G6FD');
+</script>
