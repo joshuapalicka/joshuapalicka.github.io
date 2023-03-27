@@ -36,13 +36,6 @@ The tools and technologies used in this project include:
   - Matplotlib
   - Pandas
 
-## Outcomes
-The methodology used leads to significant time savings compared to using an isolation forest alone, but still has room
-to further improve the overall F1 score as compared to the phase-1 autoencoder. The potential for such improvement is
-shown to potentially lie in underlying qualities of the autoencoder that are not yet well examined. Through this project,
-I gained a deeper understanding of machine learning models and how to evaluate them effectively, using multiple metrics.
-I also learned about network traffic data, and how to incorporate such data into ML models. 
-
 #### Prediction speed comparison between each model
 
 | Model                            | Predict Speed (Complete Test Set) |
@@ -66,6 +59,12 @@ I also learned about network traffic data, and how to incorporate such data into
 | AE -> SCiForest        | 0.76      | 0.46   | 0.57  |
 | AE -> FBIF             | 0.58      | 0.44   | 0.50  |
 
+## Outcomes
+The methodology used leads to significant time savings compared to using an isolation forest alone, but still has room
+to further improve the overall F1 score as compared to the phase-1 autoencoder. The potential for such improvement is
+shown to potentially lie in underlying qualities of the autoencoder that are not yet well examined. Through this project,
+I gained a deeper understanding of machine learning models and how to evaluate them effectively, using multiple metrics.
+I also learned about network traffic data, and how to incorporate such data into ML models.
 <br><br>
 <figure>
 <a href="images/pipeline.jpg?raw=true" target="_blank">
