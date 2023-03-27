@@ -1,4 +1,4 @@
-## Sugarscape-Utilicalc
+## Graduate Research Project: Sugarscape-Utilicalc
 
 ### Project description
 The main goal for this project was to use our comprehensive Python implementation of Sugarscape, described [here](./sugarscape.md),
@@ -8,11 +8,11 @@ which is a framework of classes for which to input the outcomes of potential act
 of the moral value of those actions, which we use to decide agent moves in the Sugarscape.
 
 ### Background
-Background on the Sugarscape, as well as our implementation, is given [here](./sugarscape.md).
-
-Felicific Calculus quantifies the moral value of an action based on the consequences for all actors involved. The algorithm 
-considers various factors, such as intensity, duration, certainty, nearness in time, and others, to determine the overall 
+Felicific Calculus quantifies the moral value of an action based on the consequences for all actors involved. The algorithm
+considers various factors, such as intensity, duration, certainty, nearness in time, and others, to determine the overall
 positive or negative impact of an action.
+
+Background on the Sugarscape, as well as our implementation, is given [here](./sugarscape.md).
 
 ### Outcomes
 We find that some heuristics of a healthy Sugarscape society, such as carrying capacity of the environment, are increased
@@ -34,5 +34,5 @@ concepts into practical programming solutions.
 <a href="images/sugarscape-sugar-spice-graphs.png?raw=true" target="_blank">
 <img src="images/sugarscape-sugar-spice-graphs.png?raw=true" alt="Standard Sugar and Spice Sugarscape run with optional location stats and mean trade volume graph"/>
 </a>
-<figcaption>Snapshot of a Sugarscape run with Sugar and Spice, including optional stats and a graph</figcaption>
+<figcaption>Snapshot of a Sugarscape run with sugar and spice, including optional stats and a graph</figcaption>
 </figure>

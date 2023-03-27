@@ -9,7 +9,8 @@ and promotion has been expanded to include non-tenants who are interested in imp
 
 ### Project description
 This project's goal was to update and redesign the DMMA's website, so that they can more effectively reach people in their 
-community. The project included meetings with the DMMA board on progress, as well as to ask clarifying questions. 
+community. I was contracted to update the site in Summer 2022. The project included meetings with the DMMA board on progress, 
+as well as to ask clarifying questions. 
 
 Summary of features added:
 * Seamless membership database management

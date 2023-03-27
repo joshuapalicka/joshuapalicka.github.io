@@ -23,11 +23,13 @@ The tools and technologies used in this project include:
 
 
 - Autoencoders
+<br>
 - Isolation Forest variants
   - Isolation Forest
   - EIF
   - SCiF
   - FBiF
+  
 - Python
   - Tensorflow
   - Scikit-Learn
@@ -35,7 +37,7 @@ The tools and technologies used in this project include:
   - Numba
   - Matplotlib
   - Pandas
-
+<br>
 #### Prediction speed comparison between each model
 
 | Model                            | Predict Speed (Complete Test Set) |

@@ -29,6 +29,7 @@ During the project, we mainly used the following tools and technologies:
 * **Pandas**: for data pre-processing
 * **Scikit-learn**: for machine learning model development
 * **Jupyter Notebook**: for model development and data analysis
+* **Tableau**: for data visualization
 * **Microsoft Teams**: for communication and collaboration
 * **AWS Workspaces**: for secure connection to Kenworth's systems
 
@@ -42,7 +43,7 @@ documentation of the scripts so that the Kenworth Data Science team could contin
 
 ### Outcomes
 We deem this project a success because we were able to predict REIs with an error around 6%. As students, we gained valuable 
-experience in real-world applications of data science, machine learning, and Agile methodologies. The Kenworth Engineering 
+experience in real-world applications of data science, machine learning, and Agile methodologies. The Kenworth Engineering Insights
 team will continue our work by utilizing our documentation and models to further improve the process and better understand 
 the relationship between Sales Orders and REIs.
 
