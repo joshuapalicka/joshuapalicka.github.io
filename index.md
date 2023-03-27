@@ -2,8 +2,6 @@
 
 ---
 
-### Large Projects
-
 [Senior Capstone Project - Kenworth - Predict BoM Health & Sales Code Driven REIs](/kenworth)
 
 <figure>
@@ -35,12 +33,12 @@
 
 ---
 
-### Other Accomplishments
-
-- [4 Quarters of TA Work](/ta)
-- [Sugarscape](/sugarscape)
+[5 Quarters as a Teaching Assistant](/ta)
 
 ---
+
+[Sugarscape](/sugarscape)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
