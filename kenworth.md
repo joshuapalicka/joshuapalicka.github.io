@@ -37,7 +37,7 @@ During the project, we mainly used the following tools and technologies:
 understand the data and how the pieces influenced each other.
 2. **Machine Learning Model**: We leveraged Python’s Scikit-Learn library to test many machine learning models, and to 
 build our final REI prediction model.
-3. **Documentation, Scripts**, and Visualization: We delivered our files, scripts to build the model and predict, and 
+3. **Documentation, Scripts, and Visualization**: We delivered our files, scripts to build the model and predict, and 
 documentation of the scripts so that the Kenworth Data Science team could continue this project.
 
 ### Outcomes
