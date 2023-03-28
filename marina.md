@@ -9,7 +9,7 @@
   gtag('config', 'G-R226D9G6FD');
 </script>
 
-# Freelance Web Development
+# Des Moines Marina Association Website Redesign
 
 ### Background
 The Des Moines Marina Association (DMMA) is a non-profit organization serving marina moorage tenants and anyone interested in 
