@@ -87,7 +87,6 @@ I also learned about network traffic data, and how to incorporate such data into
 
 
 ## References
-References
 [1]: Carrera, Francesco, et al. "Combining unsupervised approaches for near real-time network traffic anomaly detection." Applied Sciences 12.3 (2022): 1759.
 
 [2]: Zong, Bo, et al. "Deep autoencoding gaussian mixture model for unsupervised anomaly detection." International conference on learning representations. 2018.
