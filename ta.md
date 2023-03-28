@@ -8,7 +8,7 @@
   gtag('config', 'G-R226D9G6FD');
 </script>
 
-# Teaching Assistant Experience
+# Teaching Assistant
 
 ## Introduction
 As a dedicated student and aspiring professional, I have taken the initiative to expand my learning experiences beyond 
