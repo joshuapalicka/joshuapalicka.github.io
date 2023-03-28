@@ -58,7 +58,7 @@ The tools and technologies used in this project include:
 | SCiForest                        | 53.8 seconds                      |
 | Finite Boundary Isolation Forest | 59.3 seconds                      |
 
-<br><br>
+<br>
 
 #### Scores comparison between individual models (first 2 rows), along with pipeline tests (last 4 rows)
 
@@ -77,7 +77,9 @@ to further improve the overall F1 score as compared to the phase-1 autoencoder. 
 shown to potentially lie in underlying qualities of the autoencoder that are not yet well examined. Through this project,
 I gained a deeper understanding of machine learning models and how to evaluate them effectively, using multiple metrics.
 I also learned about network traffic data, and how to incorporate such data into ML models.
+
 <br><br>
+
 <figure>
 <a href="images/pipeline.jpg?raw=true" target="_blank">
 <img src="images/pipeline.jpg?raw=true" alt="Example of the pipeline we used"/>
