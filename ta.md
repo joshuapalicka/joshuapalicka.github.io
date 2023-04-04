@@ -7,7 +7,7 @@
 
   gtag('config', 'G-R226D9G6FD');
 </script>
-
+<title>TA</title>
 # Teaching Assistant
 
 ## Introduction
