@@ -13,7 +13,7 @@
 ### Project description
 The main goal for this project was to use our comprehensive Python implementation of Sugarscape, described [here](./sugarscape.md),
 as a framework for implementing Utilitarian ethics using Jeremy Bentham's formula for Felicific Calculus, programmatically.
-For this, we created Utilicalc, [link](https://github.com/joshuapalicka/utilicalc/), an implementation of Bentham's formula, 
+For this, we created Utilicalc, linked [here](https://github.com/joshuapalicka/utilicalc/), an implementation of Bentham's formula, 
 which is a framework of classes for which to input the outcomes of potential actions an agent can make, and get an output 
 of the moral value of those actions, which we use to decide agent moves in the Sugarscape.
 

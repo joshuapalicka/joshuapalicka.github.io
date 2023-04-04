@@ -7,7 +7,7 @@
 
   gtag('config', 'G-R226D9G6FD');
 </script>
-<title>TA</title>
+
 # Teaching Assistant
 
 ## Introduction
@@ -22,10 +22,10 @@ the background, course details, collaboration, and outcomes associated with my w
 ## Background
 I began my journey as a Teaching Assistant in Winter of the 2021-2022 school year. After completing the Introduction to Data Science course in 
 Fall 2021, my professor offered me the opportunity to be her TA for the undergraduate Fundamentals of Databases course the 
-following quarter. Since then, I have continued to serve as her TA for various courses every quarter.
+following quarter. Since then, I have continued to serve as one of her TAs every quarter.
 
 My success as a TA can be partially attributed to my ability to educate others, which I have developed over the years 
-through helping older people with tech support. Additionally, my strong time management skills and ability to plan ahead 
+through helping people with tech support in my free time. Additionally, my strong time management skills and ability to plan ahead 
 have enabled me to balance my academic responsibilities with my TA work, ensuring that I can effectively support students 
 while maintaining my own academic success.
 
@@ -57,8 +57,7 @@ into real-world data science applications.
 Machine Learning is a comprehensive course that offers a broad introduction to the foundations, concepts, and algorithms 
 of machine learning, as well as their applications in analyzing massive amounts of data for decision-making and prediction 
 purposes. Students are expected to apply machine learning techniques to solve real-world problems in research or industry 
-applications. Topics covered include model parameter learning, evaluation metrics, supervised learning 
-(generative/discriminative learning and parametric/non-parametric learning), unsupervised learning (clustering, dimensionality reduction), 
+applications. Topics covered include model parameter learning, evaluation metrics, supervised learning, unsupervised learning, 
 learning theory, and performance improvement.
 
 As a TA for this course, as with 5305, I found it particularly engaging to review and provide feedback on students' machine 
@@ -87,13 +86,13 @@ supportive environment where we can share insights and work together to improve 
 
 During my virtual office hours, I have had the opportunity to directly support and guide students as they navigate through 
 course material and tackle assignments. This one-on-one interaction has not only enhanced my communication and teaching 
-skills but also provided valuable feedback on students' progress and areas where they may need further clarification or assistance.
+skills but also provided feedback on students' progress and areas where they may need further clarification or assistance.
 
 Overall, my collaborative experiences as a TA have fostered a strong sense of teamwork and commitment to the success of 
 the students in the courses I have been a part of.
 
 ## Outcomes
-Through my experience as a Teaching Assistant, I have seen numerous benefits, both for the students I have supported 
+Through my experience as a Teaching Assistant, I have seen multiple benefits, both for the students I have supported 
 and for my own personal and professional growth:
 
 * **Positive impact on student learning**: Providing guidance, feedback, and support to students has helped them grasp 

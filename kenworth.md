@@ -16,16 +16,16 @@ As one of the three truck divisions under PACCAR INC, Kenworth provides function
 by allowing each truck to be custom-ordered through submitting Option Approval Requests (OARs). This process produces 
 unique Bills of Materials (BOMs) for each order, which can lead to the generation of Requests For Engineering Information 
 (REIs) when a part cannot be automatically fitted onto the truck. These REIs require an engineer at Kenworth to fit parts 
-on a truck. The BOMs are generated based on combinations of sales codes and OARs. With each truck being custom-built, 
+on a truck. The BOMs are generated based on combinations of sales codes (part numbers) and OARs. With each truck being custom-built, 
 there are thousands of combinations, presenting unique challenges for engineers on each order. At the time, there was no 
 way to relate what was ordered on the truck to the amount of work that would be required by the engineering team 
 to ensure the truck was built on time.
 
 ### Project description
 My team, which included three other students and me, were paired with Kenworth for our CS Senior Capstone Project. Our 
-project explored the relationship between Sales Codes and OARs in the Kenworth database to build a proof-of-concept 
+project explored the relationship between sales codes and OARs in the Kenworth database to build a proof-of-concept 
 machine learning model for predicting the number of REIs a given truck would have (which roughly translates to how much 
-time an engineer must spend fitting parts onto the truck) based on BOMs and Sales Codes. The aim was to identify which Sales 
+time an engineer must spend fitting parts onto the truck) based on BOMs and sales codes. The aim was to identify which Sales 
 Codes or OARs drove REIs and to provide insights to the Kenworth Data Science team for further development.
 
 ### Collaboration
@@ -55,7 +55,7 @@ documentation of the scripts so that the Kenworth Data Science team could contin
 We deem this project a success because we were able to predict REIs with an error around 6%. As students, we gained valuable 
 experience in real-world applications of data science, machine learning, and Agile methodologies. The Kenworth Engineering Insights
 team will continue our work by utilizing our documentation and models to further improve the process and better understand 
-the relationship between Sales Orders and REIs.
+the relationship between sales codes and REIs.
 
 <br><br>
 <figure>

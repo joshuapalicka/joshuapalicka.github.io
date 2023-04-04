@@ -48,6 +48,7 @@ The tools and technologies used in this project include:
   - Matplotlib
   - Pandas
 <br>
+<br>
 #### Prediction speed comparison between each model
 
 | Model                            | Predict Speed (Complete Test Set) |
