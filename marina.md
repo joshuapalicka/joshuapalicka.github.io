@@ -33,8 +33,8 @@ Summary of features added:
 * Convenient and straightforward member survey tools
 
 ### Outcomes
-The DMMA board was happy with their site, and I was later contracted by somebody on the DMMA board for another, smaller, 
-project to update another Des Moines Marina-related site - [link](https://www.desmoinesmarinawatch.com/). Through this project,
+The DMMA board was happy with their site, and I was later contracted by somebody on the DMMA board for another, smaller 
+project, to update another Des Moines Marina-related site - [link](https://www.desmoinesmarinawatch.com/). Through this project,
 I gained skills in web design, communication with clients, and project management.
 
 <p>
