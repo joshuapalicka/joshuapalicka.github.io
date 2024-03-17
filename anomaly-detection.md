@@ -79,6 +79,9 @@ shown to potentially lie in underlying qualities of the autoencoder that are not
 I gained a deeper understanding of machine learning models and how to evaluate them effectively, using multiple metrics.
 I also learned about network traffic data, and how to incorporate such data into ML models.
 
+Our paper was published by IEEE and presented at IEEE CCWC 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10427699">Link here</a>>
+
+
 <br><br>
 
 <figure>
