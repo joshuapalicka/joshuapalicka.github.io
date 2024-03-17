@@ -11,7 +11,15 @@
 ## Portfolio
 
 ---
+[Published Paper - Network Anomaly Detection](/anomaly-detection)
 
+<figure>
+<a href="images/pipeline.jpg?raw=true" target="_blank">
+<img src="images/pipeline.jpg?raw=true" alt="Example of the pipeline we used"/>
+</a>
+</figure>
+
+---
 [Senior Capstone Project - Kenworth - Predict BoM Health & Sales Code Driven REIs](/kenworth)
 
 <figure>
@@ -26,15 +34,6 @@
 <figure>
 <a href="images/sugarscape.png?raw=true" target="_blank">
 <img src="images/sugarscape.png?raw=true" alt="Standard Sugarscape Run"/>
-</a>
-</figure>
-
----
-[Graduate Capstone Project - Network Anomaly Detection](/anomaly-detection)
-
-<figure>
-<a href="images/pipeline.jpg?raw=true" target="_blank">
-<img src="images/pipeline.jpg?raw=true" alt="Example of the pipeline we used"/>
 </a>
 </figure>
 
