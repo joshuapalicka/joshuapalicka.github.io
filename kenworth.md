@@ -52,7 +52,7 @@ build our final REI prediction model.
 documentation of the scripts so that the Kenworth Data Science team could continue this project.
 
 ### Outcomes
-We deem this project a success because we were able to predict REIs with an error around 6%. As students, we gained valuable 
+We deemed this project a success because we were able to predict REIs with an error around 6%. As students, we gained valuable 
 experience in real-world applications of data science, machine learning, and Agile methodologies. The Kenworth Engineering Insights
 team will continue our work by utilizing our documentation and models to further improve the process and better understand 
 the relationship between sales codes and REIs.
